@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/basic_hello.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/parallel_for.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/work_sharing.cpp" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://C:/Program Files/TDM-GCC/include" />
+          <root url="file://C:/Program Files/TDM-GCC/x86_64-w64-mingw32/include" />
+          <root url="file://C:/Program Files/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include" />
+          <root url="file://C:/Program Files/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include-fixed" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://C:/Program Files/TDM-GCC/include" />
+          <root url="file://C:/Program Files/TDM-GCC/x86_64-w64-mingw32/include" />
+          <root url="file://C:/Program Files/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include" />
+          <root url="file://C:/Program Files/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include-fixed" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
